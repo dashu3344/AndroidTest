@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.lxs.androidtest.MainActivity">
+
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="注意：miui为省电优化，后台默认会冻结应用，需要手动开启无限制，进入 设置->电量和性能->省电优化->应用智能省电->goaway（该app）->点击进入后台配置->无\n\r限制 \n该app功能简单，刷新频率低，不会耗电，已经开源，欢迎监督\R\n\n--点击查看详情--注意：miui为省电优化，后台默认会冻结应用，需要手动开启无限制，进入 设置->电量和性能->省电优化->应用智能省电->goaway（该app）->点击进入后台配置->无限制 \n该app功能简单，刷新频率低，不会耗电，已经开源，欢迎监督\n\n--点击查看详情--"
+    android:layout_centerInParent="true"/>
+</RelativeLayout>
